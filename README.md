@@ -8,13 +8,6 @@
 
 **SplitBill** é uma solução simples que ajuda você a calcular o valor individual de uma conta, considerando o total, a gorjeta (opcional) e o número de pessoas.
 
-<p align="center">
-  <img src="assets/DivApp1.jpg" alt="Tela inicial" width="40%" style="margin-right:10px;">
-  <img src="assets/DivApp2.jpg" alt="Tela de resultado" width="40%">
-</p>
-
----
-
 ## ⚙️ Como usar
 
 ### Requisitos
